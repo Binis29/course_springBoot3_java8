@@ -1,0 +1,5 @@
+package com.cleitonandrade.course.service;
+
+public class UserService {
+
+}
