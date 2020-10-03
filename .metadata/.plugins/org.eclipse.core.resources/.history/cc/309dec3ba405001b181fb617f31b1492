@@ -1,0 +1,5 @@
+package com.cleitonandrade.course.resources;
+
+public class UserResource {
+
+}
